@@ -200,3 +200,25 @@ NDependOut/
 
 # Visual Studio 6 workspace options file
 *.opt
+
+
+
+# Remove ds_store file
+.DS_Store
+.AppleDouble
+.LSOverride
+Trashes
+
+
+#temp folder 
+tmp/
+var/
+
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
